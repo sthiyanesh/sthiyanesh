@@ -19,6 +19,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sthiyanesh&show_icons=true&locale=en&layout=compact" alt="sthiyanesh" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sthiyanesh" alt="sthiyanesh" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sthiyanesh&theme=radical" alt="sthiyanesh" /></p>
 
 ![THIYANESH S's github activity](https://activity-graph.herokuapp.com/graph?username=sthiyanesh&bg_color=1f1f1f&color=d1c7d0&line=f4f0f4&point=908e8e&area=true&hide_border=true)
